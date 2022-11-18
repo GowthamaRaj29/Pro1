@@ -1,0 +1,26 @@
+                            SERV@T
+
+SRS:Software Requirement Specifications
+
+*Login:
+     $Name
+     $Phone number
+     $Address
+     $Storage access to save the payment recipts
+     $Database To manage all the services
+     $Security(Good Firewall)
+
+*TRANSPORTATION SERVICE:
+     $Permissions from Transport Authorities
+     $Location services
+     $Man Power
+     $Fuel
+     $Easy and Clear UI
+     $Cloud Payment module
+     $AI to track the services
+     $Cloud storage system to save all the customers info
+
+*HBS(Home Based Services):
+     $Services Such as Water tanker,Truck/Tempo,JCB,Tractor.
+     $Get an Collab with best service providers from the above mentioned services
+     $Location services
